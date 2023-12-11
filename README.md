@@ -25,15 +25,21 @@ The userscript changes the template Statistics (threadmark number threadmark, wo
 
 The user script renames the button right before the next button to the word Last. 
 
-<img width="261" alt="bottom set rename fix" src="https://github.com/wkrouse/Bringing-My-OCD-Online/assets/70705663/2e619a15-7a8a-42b5-9a87-4589bd145ba2">
+  <img width="261" alt="bottom set rename fix" src="https://github.com/wkrouse/Bringing-My-OCD-Online/assets/70705663/2e619a15-7a8a-42b5-9a87-4589bd145ba2"><br>
 
-<img width="261" alt="bottom set rename " src="https://github.com/wkrouse/Bringing-My-OCD-Online/assets/70705663/f463d210-03a3-46a3-8400-896db47c1dc2">
+  <img width="261" alt="bottom set rename " src="https://github.com/wkrouse/Bringing-My-OCD-Online/assets/70705663/f463d210-03a3-46a3-8400-896db47c1dc2"><br>
 
-<img width="258" alt="top set rename fix" src="https://github.com/wkrouse/Bringing-My-OCD-Online/assets/70705663/f017ca34-3c40-49a3-b650-1267ce3a7c93">
+  <img width="261" alt="top set rename" src="https://github.com/wkrouse/Bringing-My-OCD-Online/assets/70705663/6e606598-fc53-4bb3-89ad-d7b2445db710"><br>
+  
+  <img width="258" alt="top set rename fix" src="https://github.com/wkrouse/Bringing-My-OCD-Online/assets/70705663/f017ca34-3c40-49a3-b650-1267ce3a7c93"><br>
 
-<img width="261" alt="top set rename" src="https://github.com/wkrouse/Bringing-My-OCD-Online/assets/70705663/6e606598-fc53-4bb3-89ad-d7b2445db710">
+  <br>
+
+The user script removes the number of replies then the words more messages.<br>
+<img width="210" alt="remaining reply count fix" src="https://github.com/wkrouse/Bringing-My-OCD-Online/assets/70705663/cdb92c13-c4e2-483d-ba18-02da4fe1839e"><br>
+<img width="214" alt="remaining reply count " src="https://github.com/wkrouse/Bringing-My-OCD-Online/assets/70705663/0b4b632a-d840-44b6-b100-a32bb9b1c4bf"><br>
 
 
-
-
+The userscript removes the number of replies and the number of replies in the thread.
+<img width="607" alt="total remain count  both" src="https://github.com/wkrouse/Bringing-My-OCD-Online/assets/70705663/615a39ba-76bd-405f-93be-bcf1caa59eb5">
 
