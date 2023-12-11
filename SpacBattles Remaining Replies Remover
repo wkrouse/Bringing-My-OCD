@@ -1,0 +1,14 @@
+// ==UserScript==
+//@name        SpacBattles Remaining Replies Remover
+// @description removing the remaining replies in SpacBattles
+// @match       https://*.spacebattles.com/*
+// ==/UserScript==
+
+// Select the first element with the class 'u-dimmed' representing the 'remaining replies' section
+let remainingReplies = document.querySelector('.u-dimmed');
+
+// Check if the 'remaining replies' section exists on the page
+if (remainingReplies != null) {
+    // Remove the 'remaining replies' section from the page if it's found
+    remainingReplies.remove();
+}
