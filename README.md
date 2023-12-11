@@ -22,6 +22,8 @@ The user script removes the last column of the first image.
 
 The userscript changes the template Statistics (threadmark number threadmark, wordcount words) to Statistics (wordcount words). 
 <img width="447" alt="2nd Threadmark count " src="https://github.com/wkrouse/Bringing-My-OCD-Online/assets/70705663/5f1b96e3-682a-414d-9198-8060e1d6f16d">
+
+
 <img width="442" alt="2nd Threadmark count fix" src="https://github.com/wkrouse/Bringing-My-OCD-Online/assets/70705663/288408b0-ebcd-4465-9c2b-fbc7018493b3">
 
 
