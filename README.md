@@ -21,9 +21,17 @@ The user script removes the last column of the first image.
 <img width="710" alt="1st Threadmark count fix" src="https://github.com/wkrouse/Bringing-My-OCD-Online/assets/70705663/89f00d46-3f23-4baa-a195-a5677a5be520">
 
 The userscript changes the template Statistics (threadmark number threadmark, wordcount words) to Statistics (wordcount words). 
-<img width="447" alt="2nd Threadmark count " src="https://github.com/wkrouse/Bringing-My-OCD-Online/assets/70705663/a9011640-da70-43dc-bd2e-cd677f418363">
-      <img width="442" alt="2nd Threadmark count fix" src="https://github.com/wkrouse/Bringing-My-OCD-Online/assets/70705663/de4dff71-e8c3-477b-baee-a078e8104c5c">
+<img width="462" alt="both 2nd Threadmark count " src="https://github.com/wkrouse/Bringing-My-OCD-Online/assets/70705663/cc863722-eb13-4581-8d9f-87874f96726b">
 
+The user script renames the button right before the next button to the word Last. 
+
+<img width="261" alt="bottom set rename fix" src="https://github.com/wkrouse/Bringing-My-OCD-Online/assets/70705663/2e619a15-7a8a-42b5-9a87-4589bd145ba2">
+
+<img width="261" alt="bottom set rename " src="https://github.com/wkrouse/Bringing-My-OCD-Online/assets/70705663/f463d210-03a3-46a3-8400-896db47c1dc2">
+
+<img width="258" alt="top set rename fix" src="https://github.com/wkrouse/Bringing-My-OCD-Online/assets/70705663/f017ca34-3c40-49a3-b650-1267ce3a7c93">
+
+<img width="261" alt="top set rename" src="https://github.com/wkrouse/Bringing-My-OCD-Online/assets/70705663/6e606598-fc53-4bb3-89ad-d7b2445db710">
 
 
 
