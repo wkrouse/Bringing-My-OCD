@@ -1,0 +1,16 @@
+// ==UserScript==
+// @name        SpacBattles 1st Threadmark Count Remover 
+// @description Removing 1st Threadmark Count in Threadheader in SpacBattles
+// @match       https://*.spacebattles.com/*
+// ==/UserScript==
+
+// Select the first element with the class 'fauxBlockLink' representing the first 'Threadmark Count' section
+let firstthreadmarkCount= document.querySelectorAll('.fauxBlockLink')
+
+// Check if the 'Threadmark Count' section exists on the page
+if (firstthreadmarkCount != null) {
+    // Remove the 'Threadmark Count' section from the page if it's found
+    for (let i = 0; i < firstthreadmarkCount.length; i++) {
+  firstthreadmarkCount[i].remove();
+}
+}
