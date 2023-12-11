@@ -17,5 +17,5 @@ When looking at the threads created by an user, it removes the total reply count
 
 The user script removes the last column of the first image.
 
-<img width="707" alt="1st Threadmark count" src="https://github.com/wkrouse/Bringing-My-OCD-Online/assets/70705663/7b40a6e0-7875-4f20-b759-20beee92c65b">
-<img width="710" alt="1st Threadmark count fix" src="https://github.com/wkrouse/Bringing-My-OCD-Online/assets/70705663/d6998a0c-77a7-47f5-93bb-e3c63a74e6a7">
+<img width="710" alt="1st Threadmark count fix" src="https://github.com/wkrouse/Bringing-My-OCD-Online/assets/70705663/89f00d46-3f23-4baa-a195-a5677a5be520">
+<img width="707" alt="1st Threadmark count" src="https://github.com/wkrouse/Bringing-My-OCD-Online/assets/70705663/d2fe0342-7b5f-42ed-96ff-d6217fe3d247">
