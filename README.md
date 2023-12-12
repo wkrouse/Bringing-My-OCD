@@ -1,22 +1,17 @@
-# Bringing-My-OCD-Online
-These are an in-progress set of user scripts that allow you to use the internet forums Sufficient Velocity, Spacebattle, and *Questionable Questing without knowing how close you are to finishing. I've coded them because I don't want to dread the end. 
+# Bringing My OCD Online: User Scripts for Enhanced Forum Browsing
+This document describes a set of user scripts designed to enhance the browsing experience on Sufficient Velocity, Spacebattle, and Questionable Questing forums, focusing on user interface improvements. It's does that by allowing you to use the internet forums Sufficient Velocity, Spacebattle, and *Questionable Questing without knowing how close you are to finishing. I've coded them because I don't want to dread the end of stories. 
 
                                                         Features
 
-**Renames final page number button to 'Last' on top and bottom navigation
-Removes remaining reply count from the bottom of the page
-Removes the Threadmark counts from the thread heading on the first page
-When looking at the threads created by an user, it removes the total reply count
-
-
-*Currently, the features that work Questionable Questing are the first two bullets. 
-
-**It only works when there are multiple page navigation buttons instead of a button with the current page number of last page number. Additionally, it can take a little time to take effect. 
+* Renames final page number button to 'Last' on top and bottom navigation. It only works when there are multiple page navigation buttons instead of a button with the current page number of last page number. Additionally, it takes a second to load. This feature works on Questionable Questing.
+* Removes remaining reply count from the bottom of the page. This feature works on Questionable Questing.
+* Removes the Threadmark counts from the thread heading on the first page
+* When looking at the threads created by an user, it removes the total reply count
 
                                                         Before and After
+I'm the section, it first has an image of the original website then it happens when the user script takes effect.  The boxes, circles, and arrows are visual indicators to to make it easier to see the changes.
 
 The user script removes the last column of the first image.
-
 <img width="707" alt="1st Threadmark count" src="https://github.com/wkrouse/Bringing-My-OCD-Online/assets/70705663/d2fe0342-7b5f-42ed-96ff-d6217fe3d247">
 <img width="710" alt="1st Threadmark count fix" src="https://github.com/wkrouse/Bringing-My-OCD-Online/assets/70705663/89f00d46-3f23-4baa-a195-a5677a5be520">
 
@@ -42,4 +37,3 @@ The user script removes the number of replies then the words more messages.<br>
 
 The userscript removes the number of replies and the number of replies in the thread.
 <img width="607" alt="total remain count  both" src="https://github.com/wkrouse/Bringing-My-OCD-Online/assets/70705663/615a39ba-76bd-405f-93be-bcf1caa59eb5">
-
