@@ -3,7 +3,7 @@ This document describes a set of user scripts designed to enhance the browsing e
 
                                                         Features
 
-* * Renames the final page number button to 'Last' in the top and bottom navigation bars, only effective when multiple navigation buttons are present. Note: This feature will take a moment to load. This feature works on Questionable Questing.
+* Renames the final page number button to 'Last' in the top and bottom navigation bars, only effective when multiple navigation buttons are present. Note: This feature will take a moment to load. This feature works on Questionable Questing.
 * Removes remaining reply count from the bottom of the page. This feature works on Questionable Questing.
 * Removes the Threadmark counts from the thread heading on the first page
 * When looking at the threads created by an user, it removes the total reply count
@@ -20,13 +20,13 @@ The userscript changes the template Statistics (threadmark number threadmark, wo
 
 The user script renames the button right before the next button to the word Last. 
 
-  <img width="261" alt="bottom set rename fix" src="https://github.com/wkrouse/Bringing-My-OCD-Online/assets/70705663/2e619a15-7a8a-42b5-9a87-4589bd145ba2"><br>
+  <img width="261" alt="Original bottom navigation buttons before renaming" src="https://github.com/wkrouse/Bringing-My-OCD-Online/assets/70705663/2e619a15-7a8a-42b5-9a87-4589bd145ba2"><br>
 
-  <img width="261" alt="bottom set rename " src="https://github.com/wkrouse/Bringing-My-OCD-Online/assets/70705663/f463d210-03a3-46a3-8400-896db47c1dc2"><br>
+  <img width="261" alt="Bottom navigation bar with 'Last' button post-update " src="https://github.com/wkrouse/Bringing-My-OCD-Online/assets/70705663/f463d210-03a3-46a3-8400-896db47c1dc2"><br>
 
-  <img width="261" alt="top set rename" src="https://github.com/wkrouse/Bringing-My-OCD-Online/assets/70705663/6e606598-fc53-4bb3-89ad-d7b2445db710"><br>
+  <img width="261" alt="Original bottom navigation buttons before renaming" src="https://github.com/wkrouse/Bringing-My-OCD-Online/assets/70705663/6e606598-fc53-4bb3-89ad-d7b2445db710"><br>
   
-  <img width="258" alt="top set rename fix" src="https://github.com/wkrouse/Bringing-My-OCD-Online/assets/70705663/f017ca34-3c40-49a3-b650-1267ce3a7c93"><br>
+  <img width="258" alt="Top navigation bar with 'Last' button post-update" src="https://github.com/wkrouse/Bringing-My-OCD-Online/assets/70705663/f017ca34-3c40-49a3-b650-1267ce3a7c93"><br>
 
   <br>
 
