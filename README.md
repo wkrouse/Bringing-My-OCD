@@ -12,6 +12,9 @@ This document describes a set of user scripts designed to enhance the browsing e
 The Before and After section displays comparative images of the website before and after the script is applied. Visual aids such as boxes, circles, and arrows highlight the changes.
 
 The user script removes the last column of the first image.
+![8952xv](https://github.com/wkrouse/Bringing-My-OCD-Online/assets/70705663/619b5bc1-7169-4022-8f31-2e1311b1a2d8)
+
+fgykhujlk;l
 <img width="707" alt="Initial display of the first instance of Threadmark count in the thread header" src="https://github.com/wkrouse/Bringing-My-OCD-Online/assets/70705663/d2fe0342-7b5f-42ed-96ff-d6217fe3d247">
 <img width="710" alt="first instance of Threadmark count removed in the thread header" src="https://github.com/wkrouse/Bringing-My-OCD-Online/assets/70705663/89f00d46-3f23-4baa-a195-a5677a5be520">
 
