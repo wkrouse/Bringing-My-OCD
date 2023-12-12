@@ -3,7 +3,7 @@ This document describes a set of user scripts designed to enhance the browsing e
 
                                                         Features
 
-* Renames the final page number button to 'Last' in the top and bottom navigation bars, only effective when multiple navigation buttons are present. Note: This feature will take a moment to load. This feature works on Questionable Questing.
+* Renames the final page number button to 'Last' in the top and bottom navigation bars. It's  only effective when multiple navigation buttons are present. Note: This feature will take a moment to load. This feature works on Questionable Questing.
 * Removes remaining reply count from the bottom of the page. This feature works on Questionable Questing.
 * Removes the Threadmark counts from the thread heading on the first page
 * When looking at the threads created by an user, it removes the total reply count
@@ -12,11 +12,11 @@ This document describes a set of user scripts designed to enhance the browsing e
 The Before and After section displays comparative images of the website before and after the script is applied. Visual aids such as boxes, circles, and arrows highlight the changes.
 
 The user script removes the last column of the first image.
-<img width="707" alt="1st Threadmark count" src="https://github.com/wkrouse/Bringing-My-OCD-Online/assets/70705663/d2fe0342-7b5f-42ed-96ff-d6217fe3d247">
-<img width="710" alt="1st Threadmark count fix" src="https://github.com/wkrouse/Bringing-My-OCD-Online/assets/70705663/89f00d46-3f23-4baa-a195-a5677a5be520">
+<img width="707" alt="Initial display of the first instance of Threadmark count in the thread header" src="https://github.com/wkrouse/Bringing-My-OCD-Online/assets/70705663/d2fe0342-7b5f-42ed-96ff-d6217fe3d247">
+<img width="710" alt="first instance of Threadmark count removed in the thread header" src="https://github.com/wkrouse/Bringing-My-OCD-Online/assets/70705663/89f00d46-3f23-4baa-a195-a5677a5be520">
 
 The userscript changes the template Statistics (threadmark number threadmark, wordcount words) to Statistics (wordcount words). 
-<img width="462" alt="both 2nd Threadmark count " src="https://github.com/wkrouse/Bringing-My-OCD-Online/assets/70705663/cc863722-eb13-4581-8d9f-87874f96726b">
+<img width="462" alt="Original layout displaying the second instance of Threadmark count alongside word count in the thread header. Addition it displays the second instance of Threadmark count revomed while keeping the word count." src="https://github.com/wkrouse/Bringing-My-OCD-Online/assets/70705663/cc863722-eb13-4581-8d9f-87874f96726b">
 
 The user script renames the button right before the next button to the word Last. 
 
