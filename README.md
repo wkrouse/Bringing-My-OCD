@@ -1,6 +1,6 @@
 # Bringing My OCD Online: User Scripts for Enhanced Forum Browsing
 
-![Description of GIF](https://github.com/wkrouse/Bringing-My-OCD-Online/blob/Gif/8952xv%20(1).gif)
+![Description of GIF](https://raw.githubusercontent.com/wkrouse/Bringing-My-OCD-Online/2e2afb8787c2eda5c8fd110c3a04d21146610abd/8952xv%20(1).gif)
 
 Hi, I'm Will. I'm 24 and I'm autistic. I like reading stories on online forms because I get free high-quality content. I also enjoyed reading the discussions around stories that point out things I didn't notice. I dislike knowing how many pages or chapters are left in a story because then I dread the end. This is my first big programming project. The GitHub repo describes what my code does and how to install it.
 
