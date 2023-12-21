@@ -2,7 +2,9 @@
 
 <img src="https://raw.githubusercontent.com/wkrouse/Bringing-My-OCD-Online/Gif/1st.gif" alt="Description of GIF">
 
-
+![Description of GIF](https://github.com/wkrouse/Bringing-My-OCD-Online/blob/Gif/1st.gif) <br>
+![Description of GIF](https://raw.githubusercontent.com/wkrouse/Bringing-My-OCD-Online/Gif/1st.gif) <br>
+![Description of GIF](https://i.imgur.com/1Ol4UJH.gif)
 
 Hi, I'm Will. I'm 24 and I'm autistic. I like reading stories on online forms because I get free high-quality content. I also enjoyed reading the discussions around stories that point out things I didn't notice. I dislike knowing how many pages or chapters are left in a story because then I dread the end. This is my first big programming project. The GitHub repo describes what my code does and how to install it.
 
