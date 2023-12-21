@@ -1,6 +1,6 @@
 # Bringing My OCD Online: User Scripts for Enhanced Forum Browsing
 
-![Description of GIF](https://raw.githubusercontent.com/wkrouse/Bringing-My-OCD-Online/Gif/1st.gif)
+<img src="https://raw.githubusercontent.com/wkrouse/Bringing-My-OCD-Online/Gif/1st.gif" alt="Description of GIF">
 
 
 
