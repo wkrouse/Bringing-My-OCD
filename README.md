@@ -1,10 +1,12 @@
 # Bringing My OCD Online: User Scripts for Enhanced Forum Browsing
 
-![Description of GIF](https://github.com/wkrouse/Bringing-My-OCD-Online/blob/main/8952xv.gif?raw=true)
+<img src="https://raw.githubusercontent.com/wkrouse/Bringing-My-OCD-Online/Gif/1st.gif" alt="Description of GIF">
 
+![Description of GIF](https://github.com/wkrouse/Bringing-My-OCD-Online/blob/Gif/1st.gif) <br>
+![Description of GIF](https://raw.githubusercontent.com/wkrouse/Bringing-My-OCD-Online/Gif/1st.gif) <br>
+![Description of GIF](https://i.imgur.com/1Ol4UJH.gif)
 
-
-This document describes a set of user scripts designed to enhance the browsing experience on Sufficient Velocity, Spacebattle, and Questionable Questing forums, focusing on user interface improvements. It does that by allowing you to use the internet forums Sufficient Velocity, Spacebattle, and *Questionable Questing without knowing how close you are to finishing. I've coded them because I don't want to dread the end of stories. 
+Hi, I'm Will. I'm 24 and I'm autistic. I like reading stories on online forms because I get free high-quality content. I also enjoyed reading the discussions around stories that point out things I didn't notice. I dislike knowing how many pages or chapters are left in a story because then I dread the end. This is my first big programming project. The GitHub repo describes what my code does and how to install it.
 
                                                         Features
 
