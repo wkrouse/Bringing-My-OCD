@@ -1,7 +1,7 @@
 # Bringing My OCD Online: User Scripts for Enhanced Forum Browsing
 
 ![Alt text](https://i.imgur.com/1Ol4UJH.gif)<br>
-![Alt text](https://github.com/wkrouse/Bringing-My-OCD-Online/blob/main/docs/8952xv.gif?raw=true)<br>
+![Alt text](docs/8952xv.gif)
 ![Alt text](https://raw.githubusercontent.com/wkrouse/Bringing-My-OCD-Online/Gif/1st.gif)<br><br>
 <img src="https://raw.githubusercontent.com/wkrouse/Bringing-My-OCD-Online/Gif/1st.gif" alt="Description of GIF">
 
