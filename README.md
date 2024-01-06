@@ -13,22 +13,21 @@
  The Before and After section displays comparative images of the website before and after the script is applied. Visual aids such as boxes, circles, and arrows highlight the changes.		
 
  The user script removes the last column of the first image.		
- ![Optional alt text](https://github.com/wkrouse/Bringing-My-OCD-Online/blob/main/images/Screen%20Shot%202024-01-06%20at%208.41.52%20AM.png?raw=true)
+ ![Optional alt text](https://github.com/wkrouse/Bringing-My-OCD-Online/blob/main/images/1st%20threadmark%20count%20removal.png?raw=true)
 
 
  The userscript changes the template Statistics (threadmark number threadmark, wordcount words) to Statistics (wordcount words). 		
- <img width="462" alt="Original layout displaying the second instance of Threadmark count alongside word count in the thread header. Addition it displays the second instance of Threadmark count revomed while keeping the word count." src="https://github.com/wkrouse/Bringing-My-OCD-Online/assets/70705663/cc863722-eb13-4581-8d9f-87874f96726b">		
+ ![Optional alt text](https://github.com/wkrouse/Bringing-My-OCD-Online/blob/main/images/2nd%20Threadmark%20count%20removal.png?raw=true)	
 
  The user script renames the button right before the next button to the word Last. 		
 
-   ![Optional alt text](https://github.com/wkrouse/Bringing-My-OCD-Online/blob/main/images/Screen%20Shot%202024-01-06%20at%208.42.15%20AM.png?raw=true)
-
-   <br>		
+   ![Optional alt text](https://github.com/wkrouse/Bringing-My-OCD-Online/blob/main/images/Rename%20last%20page%20button.png?raw=true)	
 
  The user script removes the number of replies then the words more messages.<br>		
- <img width="210" alt="remaining reply count fix" src="https://github.com/wkrouse/Bringing-My-OCD-Online/assets/70705663/cdb92c13-c4e2-483d-ba18-02da4fe1839e"><br>		
- <img width="214" alt="remaining reply count " src="https://github.com/wkrouse/Bringing-My-OCD-Online/assets/70705663/0b4b632a-d840-44b6-b100-a32bb9b1c4bf"><br>		
+ ![Optional alt text](https://github.com/wkrouse/Bringing-My-OCD-Online/blob/main/images/remaining%20reply%20count%20remover%20horizontal.png?raw=true)	
 
+![Optional alt text](https://github.com/wkrouse/Bringing-My-OCD-Online/blob/main/images/remaining%20reply%20count%20remover%20vertical.png?raw=true)	
 
  The userscript removes the number of replies and the number of replies in the thread.		
- <img width="607" alt="total remain count  both" src="https://github.com/wkrouse/Bringing-My-OCD-Online/assets/70705663/615a39ba-76bd-405f-93be-bcf1caa59eb5">		
+ ![Optional alt text](https://github.com/wkrouse/Bringing-My-OCD-Online/blob/main/images/2nd%20Threadmark%20count%20remover.png?raw=true)	
+ 
