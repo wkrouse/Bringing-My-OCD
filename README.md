@@ -1,6 +1,6 @@
 # Bringing My OCD Online: Userscripts for Enhanced Forum Browsing
 
- Hi, I'm Will. I'm 24 and I'm autistic. I'm learning to code and this is my first public project. I chose userscripts as my first project because I can improve my quality of life with my coding skills. They stop me from dreading the end of a story thread. The GitHub repo describes what my code does and how to install it.		
+ Hi, I'm Will. I'm 24 and I'm autistic. I'm learning to code and this is my first public project. With my coding skills, I've developed userscripts that enhances my online reading experience by eliminating the dread I feel when I know I'm almost finished with a story. The GitHub repo describes what my code does and how to install it.		
 		
 
 # 									Script Impact: Visualizing the Changes
