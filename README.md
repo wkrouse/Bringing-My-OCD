@@ -4,7 +4,7 @@
 		
 
                                                          Before and After		
- The Before and After section displays comparative images of the website before and after the script is applied. Visual aids such as boxes, circles, and arrows highlight the changes.		
+		
 
 ### Feature 1: Removing Threadmark Count. 
  The userscript removes the last column of the first image.		
