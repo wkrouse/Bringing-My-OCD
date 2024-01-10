@@ -1,48 +1,39 @@
-# Bringing My OCD Online: User Scripts for Enhanced Forum Browsing
+# Bringing My OCD Online: Userscripts for Enhanced Forum Browsing
 
-![Alt text](https://i.imgur.com/1Ol4UJH.gif)<br>
-![Alt text](https://github.com/wkrouse/Bringing-My-OCD-Online/blob/main/docs/8952xv.gif?raw=true)<br>
-![Alt text](https://raw.githubusercontent.com/wkrouse/Bringing-My-OCD-Online/Gif/1st.gif)<br><br>
-<img src="https://raw.githubusercontent.com/wkrouse/Bringing-My-OCD-Online/Gif/1st.gif" alt="Description of GIF">
+ Hi, I'm Will. I'm 24 and I'm autistic. I'm learning to code and this is my first public project. I've developed userscripts that enhances my online reading experience by eliminating the dread I feel when I know I'm almost finished with a story. 
+		
 
-Hi, I'm Will. I'm 24 and I'm autistic. I like reading stories on online forms because I get free high-quality content. I also enjoyed reading the discussions around stories that point out things I didn't notice. I dislike knowing how many pages or chapters are left in a story because then I dread the end. This is my first big programming project. The GitHub repo describes what my code does and how to install it.
-
-                                                        Features
-
-* Renames the final page number button to 'Last' in the top and bottom navigation bars. It's  only effective when multiple navigation buttons are present. Note: This feature will take a moment to load. This feature works on Questionable Questing.
-* Removes remaining reply count from the bottom of the page. This feature works on Questionable Questing.
-* Removes the Threadmark counts from the thread heading on the first page
-* When looking at the threads created by an user, it removes the total reply count
-
-                                                        Before and After
-The Before and After section displays comparative images of the website before and after the script is applied. Visual aids such as boxes, circles, and arrows highlight the changes.
-
-The user script removes the last column of the first image.
-![8952xv](https://github.com/wkrouse/Bringing-My-OCD-Online/assets/70705663/619b5bc1-7169-4022-8f31-2e1311b1a2d8)
-
-fgykhujlk;l
-<img width="707" alt="Initial display of the first instance of Threadmark count in the thread header" src="https://github.com/wkrouse/Bringing-My-OCD-Online/assets/70705663/d2fe0342-7b5f-42ed-96ff-d6217fe3d247">
-<img width="710" alt="first instance of Threadmark count removed in the thread header" src="https://github.com/wkrouse/Bringing-My-OCD-Online/assets/70705663/89f00d46-3f23-4baa-a195-a5677a5be520">
-
-The userscript changes the template Statistics (threadmark number threadmark, wordcount words) to Statistics (wordcount words). 
-<img width="462" alt="Original layout displaying the second instance of Threadmark count alongside word count in the thread header. Addition it displays the second instance of Threadmark count revomed while keeping the word count." src="https://github.com/wkrouse/Bringing-My-OCD-Online/assets/70705663/cc863722-eb13-4581-8d9f-87874f96726b">
-
-The user script renames the button right before the next button to the word Last. 
-
-  <img width="261" alt="Original bottom navigation buttons before renaming" src="https://github.com/wkrouse/Bringing-My-OCD-Online/assets/70705663/2e619a15-7a8a-42b5-9a87-4589bd145ba2"><br>
-
-  <img width="261" alt="Bottom navigation bar with 'Last' button post-update " src="https://github.com/wkrouse/Bringing-My-OCD-Online/assets/70705663/f463d210-03a3-46a3-8400-896db47c1dc2"><br>
-
-  <img width="261" alt="Original bottom navigation buttons before renaming" src="https://github.com/wkrouse/Bringing-My-OCD-Online/assets/70705663/6e606598-fc53-4bb3-89ad-d7b2445db710"><br>
-  
-  <img width="258" alt="Top navigation bar with 'Last' button post-update" src="https://github.com/wkrouse/Bringing-My-OCD-Online/assets/70705663/f017ca34-3c40-49a3-b650-1267ce3a7c93"><br>
-
-  <br>
-
-The user script removes the number of replies then the words more messages.<br>
-<img width="210" alt="remaining reply count fix" src="https://github.com/wkrouse/Bringing-My-OCD-Online/assets/70705663/cdb92c13-c4e2-483d-ba18-02da4fe1839e"><br>
-<img width="214" alt="remaining reply count " src="https://github.com/wkrouse/Bringing-My-OCD-Online/assets/70705663/0b4b632a-d840-44b6-b100-a32bb9b1c4bf"><br>
+# Feature 1: Removing Threadmark Count. 
+ The userscript removes the last column of the first image.		
+ ![Comparison of web forum interface with and without the first instances of threadmark count](https://github.com/wkrouse/Bringing-My-OCD-Online/blob/main/images/1st%20threadmark%20count%20removal.png?raw=true)
 
 
-The userscript removes the number of replies and the number of replies in the thread.
-<img width="607" alt="total remain count  both" src="https://github.com/wkrouse/Bringing-My-OCD-Online/assets/70705663/615a39ba-76bd-405f-93be-bcf1caa59eb5">
+ The userscript changes the template Statistics (threadmark number threadmark, wordcount words) to Statistics (wordcount words). 		
+ ![Comparison of thread statistics display, with and without second instance of threadmark counts](https://github.com/wkrouse/Bringing-My-OCD-Online/blob/main/images/2nd%20Threadmark%20count%20removal.png?raw=true)	
+
+# Feature 2: Renames the final page number button to 'Last' in the top and bottom navigation bars. 
+
+ The userscript renames the button right before the next button to the word Last. It's  only effective when multiple navigation buttons are present. Note: This feature will take a moment to load. This feature works on Questionable Questing.	
+   ![Screenshot showing the renaming of the forum navigation button to 'Last' by the userscript](https://github.com/wkrouse/Bringing-My-OCD-Online/blob/main/images/Rename%20last%20page%20button.png?raw=true)	
+
+# Feature 3: Removes remaining reply count from the bottom of the page. This feature works on Questionable Questing.
+ The userscript removes the number of replies then the words more messages.<br>		
+ ![Comparison of web forum interface with and without the number of replies then the words more messages](https://github.com/wkrouse/Bringing-My-OCD-Online/blob/main/images/remaining%20reply%20count%20remover%20horizontal.png?raw=true)	
+
+![Comparison of web forum interface with and without the number of replies then the words more messages](https://github.com/wkrouse/Bringing-My-OCD-Online/blob/main/images/remaining%20reply%20count%20remover%20vertical.png?raw=true)	
+
+# Feature 4: When looking at the threads created by an user, it removes the total reply count		
+ The userscript removes the number of replies in the thread.
+ ![Comparison of web forum interface with and without the number of replies in the thread](https://github.com/wkrouse/Bringing-My-OCD-Online/blob/main/images/2nd%20Threadmark%20count%20remover.png?raw=true)	
+
+# How to install
+// TODO Available on GreasyFork.
+
+Works with UserScripts and probably more, but not tried.
+
+UserScripts
+1. Install and Usage Sections of https://github.com/quoid/userscripts
+Select +
+Press New JS
+Paste the raw contents of https://github.com/wkrouse/Bringing-My-OCD-Online/blob/main/spacebattleUserscripts.js, into the editor
+Save.
