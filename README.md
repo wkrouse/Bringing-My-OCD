@@ -27,13 +27,14 @@
  ![Comparison of web forum interface with and without the number of replies in the thread](https://github.com/wkrouse/Bringing-My-OCD-Online/blob/main/images/2nd%20Threadmark%20count%20remover.png?raw=true)	
 
 # How to install
-// Available on GreasyFork at https://greasyfork.org/en/scripts/484473-sufficient-velocity-userscipts, 
+Available on GreasyFork at https://greasyfork.org/en/scripts/484473-sufficient-velocity-userscipts, and https://greasyfork.org/en/scripts/484469-spacebattles-userscripts, and https://greasyfork.org/en/scripts/484474-questionable-questing-userscript.
 
-Works with UserScripts and probably more, but not tried.
+They Works with UserScripts and probably more userscipt managers, but not tried.
 
 UserScripts
-1. Install and Usage Sections of https://github.com/quoid/userscripts, https://greasyfork.org/en/scripts/484469-spacebattles-userscripts, and
-Select +
-Press New JS
-Paste the raw contents of https://github.com/wkrouse/Bringing-My-OCD-Online/blob/main/spacebattleUserscripts.js, into the editor
-Save.
+1. Install and Usage Sections of https://github.com/quoid/userscripts
+2. Select +
+3. Press New JS
+4. Paste the raw contents of one of the .js file into the editor
+5. Save.
+6. Repeat 1-5 twice.
