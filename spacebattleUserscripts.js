@@ -2,7 +2,7 @@
 // @name         Spacebattles Userscripts
 // @namespace    http://yournamespacehere.com/
 // @version      0.1
-// @description  something
+// @description  The userscript removes both instances of threadmark account, it removes the count of how many replies are left in a thread, it Remains the last page number to the word last from the number of the last page, and remove the total reply count when viewing all the threads by a user. 
 // @author       YourName
 // @match        https://*.spacebattles.com/*
 // @grant        none
