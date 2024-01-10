@@ -25,4 +25,15 @@
 # Feature 4: When looking at the threads created by an user, it removes the total reply count		
  The userscript removes the number of replies in the thread.
  ![Comparison of web forum interface with and without the number of replies in the thread](https://github.com/wkrouse/Bringing-My-OCD-Online/blob/main/images/2nd%20Threadmark%20count%20remover.png?raw=true)	
- 
+
+# How to install
+// TODO Available on GreasyFork.
+
+Works with UserScripts and probably more, but not tried.
+
+UserScripts
+1. Install and Usage Sections of https://github.com/quoid/userscripts
+Select +
+Press New JS
+Paste the raw contents of https://github.com/wkrouse/Bringing-My-OCD-Online/blob/main/spacebattleUserscripts.js, into the editor
+Save.
