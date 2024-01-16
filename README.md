@@ -18,7 +18,7 @@
 
 # Feature 3: Removes remaining reply count from the bottom of the page. This feature works on Questionable Questing.
  The userscript removes the number of replies then the words more messages.<br>		
- ![Comparison of web forum interface with and without the number of replies then the words more messages](https://github.com/wkrouse/Bringing-My-OCD-Online/blob/main/images/remaining%20reply%20count%20remover%20horizontal.png?raw=true)	
+ ![Comparison of web forum interface with and without the number of replies then the words more messages](https://github.com/wkrouse/Bringing-My-OCD-Online/blob/main/images/images/remaining%20reply%20count%20remover%20horizontal.png?raw=true)	
 
 ![Comparison of web forum interface with and without the number of replies then the words more messages](https://github.com/wkrouse/Bringing-My-OCD-Online/blob/main/images/remaining%20reply%20count%20remover%20vertical.png?raw=true)	
 
