@@ -18,7 +18,7 @@
 
 # Removes Remaining Reply Count at Bottom of Page
  The userscript removes the number of replies then the words more messages.This feature works on Questionable Questing.
- <img src="https://github.com/wkrouse/Bringing-My-OCD-Online/blob/main/images/images/remaining%20reply%20count%20remover%20horizontal.png?raw=true" alt="Comparison of web forum interface with and without the number of replies then the words more messages" width="500">
+ <img src="https://github.com/wkrouse/Bringing-My-OCD-Online/blob/main/images/remaining%20reply%20count%20remover%20horizontal.png?raw=true" alt="Comparison of web forum interface with and without the number of replies then the words more messages" width="500">
 
 
 ![Comparison of web forum interface with and without the number of replies then the words more messages](https://github.com/wkrouse/Bringing-My-OCD-Online/blob/main/images/remaining%20reply%20count%20remover%20vertical.png?raw=true)	
