@@ -21,7 +21,7 @@ The userscript changes the template Statistics (threadmark number threadmark, wo
 
 # When looking at the threads created by an user, it removes the total reply count		
  The userscript removes the number of replies in the thread. <br>
- <img src="https://github.com/wkrouse/Bringing-My-OCD-Online/blob/main/images/2nd%20Threadmark%20count%20remover.png?raw=true" alt="Comparison of web forum interface with and without the number of replies in the thread" width="500">
+ <img src="https://github.com/wkrouse/Bringing-My-OCD-Online/blob/main/images/total%20reply%20count%20remover.png?raw=true" alt="Comparison of web forum interface with and without the number of replies in the thread" width="500">
 
 # How to install
 Available on GreasyFork at https://greasyfork.org/en/scripts/484473-sufficient-velocity-userscipts, and https://greasyfork.org/en/scripts/484469-spacebattles-userscripts, and https://greasyfork.org/en/scripts/484474-questionable-questing-userscript.
