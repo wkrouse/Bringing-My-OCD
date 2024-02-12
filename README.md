@@ -30,7 +30,7 @@ They Works with UserScripts and probably more userscipt managers, but not tried.
 
 UserScripts
 1. Install and Usage Sections of https://github.com/quoid/userscripts
-2. Select +
+2. Select by the gear button +
 3. Press New JS
 4. Paste the raw contents of one of the .js file into the editor
 5. Save.
