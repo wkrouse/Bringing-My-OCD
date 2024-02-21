@@ -11,7 +11,7 @@ Only two are applicable for [Questionable Questing](https://greasyfork.org/en/sc
  The userscript removes the last column of the first image. <br>
  <img src="https://github.com/wkrouse/Bringing-My-OCD-Online/blob/main/images/1st%20threadmark%20count%20removal.png?raw=true)" alt="Comparison of web forum interface with and without the first instances of threadmark count" width="700"><br>
 
-The userscript changes the template Statistics (threadmark number threadmark, wordcount words) to Statistics (wordcount words).
+The userscript changes the template Statistics (threadmark number threadmark, wordcount words) to Statistics (wordcount words).<br>
  <img src="https://github.com/wkrouse/Bringing-My-OCD-Online/blob/main/images/2nd%20Threadmark%20count%20removal.png?raw=true" alt="Comparison of thread statistics display, with and without second instance of threadmark counts" width="500">
 
 # Last Page' Button Labeling
