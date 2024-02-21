@@ -1,6 +1,10 @@
-# Bringing My OCD Online: Userscripts for Enhanced Forum Browsing
+# Bringing My OCD Online: Userscripts for Immersive Forum Browsing
 
-My userscripts hide indications you're approaching the end of the thread. All of them work for [Space Battles](https://greasyfork.org/en/scripts/484469-spacebattles-userscripts) and [Sufficient Velocity](https://greasyfork.org/en/scripts/484473-sufficient-velocity-userscipts). The renaming of the final page number and removal of the remaining reply count are the only user scripts that work for [Questionable Questing](https://greasyfork.org/en/scripts/484474-questionable-questing-userscript).
+These userscript hide indications you're approaching the end of a thread.
+
+They all work for [Space Battles](https://greasyfork.org/en/scripts/484469-spacebattles-userscripts) and [Sufficient Velocity](https://greasyfork.org/en/scripts/484473-sufficient-velocity-userscipts). 
+
+Only two are applicable for [Questionable Questing](https://greasyfork.org/en/scripts/484474-questionable-questing-userscript): renaming of the final page number and removal of the remaining reply count.
 		
 
 # Removing Threadmark Count
