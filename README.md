@@ -1,4 +1,4 @@
-# Bringing My OCD Online: Userscripts for Immersive Forum Browsing
+# My first programming project - userscripts to change forum UIs
 
 These userscript hide indications you're approaching the end of a thread.
 
